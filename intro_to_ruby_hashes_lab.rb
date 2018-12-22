@@ -30,7 +30,7 @@ def monopoly_with_third_tier
 	  :names => {
 	    :reading_railroad => {},
 	    :pennsylvania_raiload => {},
-	    :pennsylvania_raiload => {},
+	    :b_and_o_raiload => {},
 	  },
 	  :rent_in_dollars => {
 	    :one_piece_owned => 25,
