@@ -31,7 +31,7 @@ def monopoly_with_third_tier
 	    :reading_railroad => {},
 	    :pennsylvania_raiload => {},
 	    :b_and_o_raiload => {},
-	    :b_and_o_raiload => {},
+	    :shortline => {},
 	  },
 	  :rent_in_dollars => {
 	    :one_piece_owned => 25,
